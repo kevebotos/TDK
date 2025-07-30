@@ -54,4 +54,4 @@ These tasks assume that **CMake** and **GDB** are available in your system `PATH
 * The example `main.cpp` prints a simple message.  Replace it with your own code and add more source files as needed.
 * To use a newer C++ standard (e.g. C++20), modify the `CMAKE_CXX_STANDARD` value in `CMakeLists.txt`.
 
-This setup should provide a smooth development experience regardless of whether you prefer Visual Studio Code or CLion.
+This setup should provide a smooth development experience regardless of whether you prefer Visual Studio Code or CLion.# Test change

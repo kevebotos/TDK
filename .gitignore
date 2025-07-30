@@ -1,0 +1,25 @@
+# CMake
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Binaries
+*.exe
+*.out
+*.so
+*.dll
+*.lib
+*.a
+tdk
+src/main
+
+# Other
+.idea/
+*.swp
+*~
+.DS_Store
+
